@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in FiveM Lua Development.
-- 📫 How to reach me: Add my discord account to contact me! FadedUK#0001
+- 📫 How to reach me: Add my discord account to contact me! faded#0625
 
 ## My Visitor Count. 
 
