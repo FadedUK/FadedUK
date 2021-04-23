@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @FadedUK
+### 👋 Hi, I’m @Faded
 
 
 - 👀 I’m interested in FiveM Lua Development.
